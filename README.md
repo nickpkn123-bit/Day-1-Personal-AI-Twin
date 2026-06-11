@@ -189,3 +189,4 @@ Before moving to Day 2, make sure you:
 ## Next Steps
 
 Ready for Day 2? Head to `../day-2/` to add memory and MCP tools to your agent.
+# Day-1-Personal-AI-Twin
